@@ -1,0 +1,9 @@
+.Div {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.input {
+  width: 30%;
+}
